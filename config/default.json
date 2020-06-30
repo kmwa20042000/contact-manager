@@ -1,0 +1,4 @@
+{
+  "mongolURI": "mongodb+srv://kmwa20042000:Kmwa2014@cluster0.bmsdd.azure.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "63297261"
+}
